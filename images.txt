@@ -1,7 +1,8 @@
-nginx
+#nginx
 #支持私库
 #gitlab/gitlab-ce:17.4.1-ce.0
-gitlab/gitlab-ce:17.5.0-ce.0
-nacos/nacos-server:latest
+#gitlab/gitlab-ce:17.5.0-ce.0
+#nacos/nacos-server:latest
+sonatype/nexus3:3.72.0
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
