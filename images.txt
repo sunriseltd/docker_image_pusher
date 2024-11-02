@@ -11,6 +11,6 @@
 #redis
 #louislam/dockge:latest
 #grafana/loki:latest
-#influxdb:2.7.10
+influxdb:2.7.10
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
