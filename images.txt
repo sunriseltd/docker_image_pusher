@@ -12,6 +12,7 @@
 #louislam/dockge:latest
 #grafana/loki:latest
 #influxdb:2.7.10
-influxdb:1.8.10
+#influxdb:1.8.10
+nacos/nacos-server:v2.1.2
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
