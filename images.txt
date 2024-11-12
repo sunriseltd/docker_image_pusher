@@ -14,6 +14,7 @@
 #influxdb:2.7.10
 #influxdb:1.8.10
 #nacos/nacos-server:v2.1.2
-nacos/nacos-server:2.0.2
+#nacos/nacos-server:2.0.2
+xuxueli/xxl-job-admin:2.3.1
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
